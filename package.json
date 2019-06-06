@@ -1,0 +1,27 @@
+{
+  "name": "React",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdixon850/React-Work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdixon850/React-Work/issues"
+  },
+  "homepage": "https://github.com/bdixon850/React-Work#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "cookie-parser": "^1.4.4",
+    "mongojs": "^2.6.0",
+    "path": "^0.12.7"
+  }
+}
